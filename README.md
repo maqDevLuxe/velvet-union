@@ -1,0 +1,3 @@
+# Velvet Union
+
+Project initialized.
